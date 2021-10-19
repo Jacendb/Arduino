@@ -1,3 +1,7 @@
+// Still under development
+// Buttons connected directly to arduino box
+// Not using input matrix
+
 #include <Joystick.h>
 
 // Create the Joystick
